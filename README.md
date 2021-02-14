@@ -1,5 +1,5 @@
 # WARD TRAVEL
-<p align="center"><img src="(https://user-images.githubusercontent.com/55235155/107869971-c1447080-6ec6-11eb-8a01-b9f54e0fbf37.png" width="400"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/55235155/107869971-c1447080-6ec6-11eb-8a01-b9f54e0fbf37.png" width="400"></p>
 
 ## Install Project
 ```
